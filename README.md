@@ -8,7 +8,7 @@ Mark tasks as completed (toggle)
 Delete tasks
 Persist tasks using “localStorage”
 Basic validation for empty input
-Live Demo : https://ELAMARAN-R.github.io/todo-list/
+Live Demo :  https://elamaran-r.github.io/To-Do-List-web-application/
 
 Tech Stack :
 
